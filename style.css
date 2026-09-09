@@ -11,3 +11,12 @@
 body {
   font-family: 'Exo 2';
 }
+
+
+.custom-video {
+  width: 100%;
+  max-width: 100%;
+  background-color: #966782;
+  border-radius: 40px;
+  outline: none;
+}
