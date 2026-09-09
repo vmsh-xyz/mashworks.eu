@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'Exo 2';
+  font-style: italic;
+  font-weight: 200;
+  src: local('Exo 2 Extra Light Italic'), local('Exo2-ExtraLightItalic'), url(https://web.archive.org/web/20181201223035im_/http://fonts.gstatic.com/s/exo2/v4/7cHtv4okm5zmbtYtEyM9wHo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Exo 2';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Exo 2 Bold Italic'), local('Exo2-BoldItalic'), url(https://web.archive.org/web/20181201223035im_/http://fonts.gstatic.com/s/exo2/v4/7cHtv4okm5zmbtYtE1c5wHo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Exo 2 Extra Light'), local('Exo2-ExtraLight'), url(https://web.archive.org/web/20181201223035im_/http://fonts.gstatic.com/s/exo2/v4/7cHrv4okm5zmbt7nCss8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Exo 2 Bold'), local('Exo2-Bold'), url(https://web.archive.org/web/20181201223035im_/http://fonts.gstatic.com/s/exo2/v4/7cHrv4okm5zmbt6TDss8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Lato Light'), local('Lato-Light'), url(https://web.archive.org/web/20181201223035im_/http://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh7USSwaPHA.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 22:30:35 Dec 01, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 03:15:03 Sep 09, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.427
+  load_resource: 95.786
+  PetaboxLoader3.resolve: 62.364
+  PetaboxLoader3.datanode: 15.866
+*/

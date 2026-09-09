@@ -1,0 +1,128 @@
+[column type="whole"  last="true" fade="true" fade_animation="in"]
+
+[image src="http://mash.works/wp-content/uploads/2015/01/header2.png" alt="Mashworks" type="none" title="Mashworks"]
+
+[/column]
+
+[line]
+
+[content_band inner_container="true" no_margin="true" padding_top="40px" padding_bottom="40px"]
+
+[column type="whole" fade="true" fade_animation="in"] [custom_headline type="center" level="h2" looks_like="h3" accent="true"] Mash [/custom_headline] [/column]
+
+[clear]
+
+[block_grid type="two-up"]
+
+[block_grid_item]
+
+[column type="whole"  fade="true" fade_animation="in-from-left" fade_animation_offset="45px"]
+<p style="text-align: left;"><img class="aligncenter wp-image-237 size-full" src="http://mash.works/wp-content/uploads/2015/01/miryana1.png" alt="miryana1" width="306" height="316" /></p>
+<p style="text-align: center;">[highlight type="standard"]Миряна[/highlight] е по-голямата сестра в тандема. Стихията й е да администрира различни дейности, спокойствието открива в снимането и писането.</p>
+[/column]
+
+[/block_grid_item]
+
+[block_grid_item]
+
+[column type="whole"  fade="true" fade_animation="in-from-right" fade_animation_offset="45px" last="true"]
+<p style="text-align: right;"><img class=" size-full wp-image-228 aligncenter" src="http://mash.works/wp-content/uploads/2015/01/viktoriya1.png" alt="viktoriya1" width="302" height="307" /></p>
+<p style="text-align: center;">[highlight type="standard"]Виктория[/highlight] е втората сестра в тандема. Поле за изява намира в дизайна на видео, музика, графика, уеб и код. Танцува и пее за удоволствие.</p>
+<p style="text-align: left;">[/column]</p>
+[/block_grid_item]
+
+[/block_grid]
+
+[/content_band]
+
+[content_band inner_container="true" no_margin="true" padding_top="40px" padding_bottom="140px"]
+
+[column type="whole" fade="true" fade_animation="in"] [custom_headline type="center" level="h2" looks_like="h3" accent="true"] Works [/custom_headline] [/column]
+
+[column type="whole" fade="true" fade_animation="in" last="true"]
+
+[gap size="30px"]
+<p style="text-align: center;">Специални проекти за специални хора.</p>
+
+<p style="text-align: center;">
+[x_video_embed no_container="true"] <iframe width="560" height="315" src="https://www.youtube.com/embed/n4wKAEoYfhY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe> [/x_video_embed]</p>
+
+
+
+
+2017 WEB
+Магазин Слава - SlavaShop.com
+2017 VIDEO
+Начало на видео поредица "Танцуващи сърца"
+2017 WEB
+Фейсбук страница КШУ {кич, шок и ужас}
+2017 VIDEO
+"ЛАФ {мегданци канарци}" - филм за турне на ФТА "На Мегдана" на Канарските о-ви
+2017 VIDEO
+"БАР {изгрев}" - филм за бар "Изгрев", къмпинг Крапец
+2016 DESIGN, VIDEO
+110 години футбол в Русе
+2016 MUSIC
+Музикален проект "Закусчица", авторски песни в различни жанрове
+2016 PHOTO, WEB, VIDEO
+Салони "Коса и стил"</p>
+2015 PHOTO, VIDEO
+Начало на съвместна работа с Ая Христова и Дария Русанова
+2015 WEB
+MASHWORKS, Мимибизландия
+2014 PHOTO, DESIGN, VIDEO, WEB
+Начало на съвместна работа със СК "Акро" гр. Русе и МФГ Дунавска перла
+2014 CODE
+Начало на участие в Windyweek startup</p>
+2014 VIDEO
+Кратък филм за спомен на една булка от нейните приятелки
+2014 PHOTO
+Работилницата на Миряна</p>
+2013 PHOTO
+Благотворителни фотосесии за Ла Лече Лига България
+2012 CODE
+iOS мобилни приложения - Бесеница и math &amp; color
+2007 - 2014 DESIGN
+Плакати/покани за събития, рекламни материали
+2006 CODE
+Net-Mastermind Game</p>
+2004 - 2006 DESIGN &amp; VIDEO
+Плакати за събития и първи стъпки във видео монтаж
+2002 WEB
+Slavi Web (Layout II)</p>
+2001 WEB
+Slavi Web (Layout I); Vicky’s Britney Spears Site (V Layout)
+2000 WEB
+Сътрудничество с Always Celebrities и изработка на страници посветени на Mandy Moore, Jessica Simpson, Sarah Michelle Gelar; Vicky’s Britney Spears Site (III &amp; IV Layout); Vicky’s M2M Site
+1999 WEB
+Sister’s Web &amp; Vicky’s Britney Spears Site (I &amp; II Layout)
+1998 WEB
+Първа страница в интернет, посветена на Титаник
+
+photo
+code
+design
+web
+video
+music
+
+
+
+
+https://www.facebook.com/pg/mashworksbg/photos/?tab=albums
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
